@@ -1,0 +1,170 @@
+2024-02-10 21:43:12,967 :INFO : test_title :The title of the page is: OrangeHRM
+2024-02-10 21:43:33,202 :INFO : test_title :Entered User Name Password
+2024-02-10 21:43:33,220 :INFO : test_title :Sucesfully Logged In
+2024-02-10 21:43:33,300 :INFO : test_title :(1) Pending Self Review Is There in action item
+2024-02-10 21:43:33,300 :INFO : test_title :(1) Candidate to Interview Is There in action item
+2024-02-10 21:43:33,394 :INFO : test_title :Administrador Is There in sidebar
+2024-02-10 21:43:33,395 :INFO : test_title :Módulo de Información Personal Is There in sidebar
+2024-02-10 21:43:33,395 :INFO : test_title :Licencias y Permisos Is There in sidebar
+2024-02-10 21:43:33,395 :INFO : test_title :Tiempo Is There in sidebar
+2024-02-10 21:43:33,403 :INFO : test_title :Reclutamiento Is There in sidebar
+2024-02-10 21:43:33,403 :INFO : test_title :Mi Información Is There in sidebar
+2024-02-10 21:43:33,403 :INFO : test_title :Desempeño Is There in sidebar
+2024-02-10 21:43:33,404 :INFO : test_title :Pizarra de pendientes Is There in sidebar
+2024-02-10 21:43:33,404 :INFO : test_title :Directory Is There in sidebar
+2024-02-10 21:43:33,404 :INFO : test_title :Maintenance Is There in sidebar
+2024-02-10 21:43:33,404 :INFO : test_title :Claim Is There in sidebar
+2024-02-10 21:43:33,405 :INFO : test_title :Buzz Is There in sidebar
+2024-02-10 21:48:22,671 :INFO : test_title :The title of the page is: OrangeHRM
+2024-02-10 21:48:42,879 :INFO : test_title :Entered User Name Password
+2024-02-10 21:48:42,894 :INFO : test_title :Sucesfully Logged In
+2024-02-10 21:48:42,966 :INFO : test_title :(1) Pending Self Review Is There in action item
+2024-02-10 21:48:42,966 :INFO : test_title :(1) Candidate to Interview Is There in action item
+2024-02-10 21:48:43,064 :INFO : test_title :Admin Is There in sidebar
+2024-02-10 21:48:43,064 :INFO : test_title :PIM Is There in sidebar
+2024-02-10 21:48:43,065 :INFO : test_title :Leave Is There in sidebar
+2024-02-10 21:48:43,065 :INFO : test_title :Time Is There in sidebar
+2024-02-10 21:48:43,065 :INFO : test_title :Recruitment Is There in sidebar
+2024-02-10 21:48:43,065 :INFO : test_title :My Info Is There in sidebar
+2024-02-10 21:48:43,065 :INFO : test_title :Performance Is There in sidebar
+2024-02-10 21:48:43,065 :INFO : test_title :Dashboard Is There in sidebar
+2024-02-10 21:48:43,067 :INFO : test_title :Directory Is There in sidebar
+2024-02-10 21:48:43,067 :INFO : test_title :Maintenance Is There in sidebar
+2024-02-10 21:48:43,067 :INFO : test_title :Claim Is There in sidebar
+2024-02-10 21:48:43,067 :INFO : test_title :Buzz Is There in sidebar
+2024-02-10 21:50:55,097 :INFO : test_title :Sucuesffuly verified that job titles is working
+2024-02-10 21:51:35,935 :INFO : test_title :Selected More
+2024-02-10 21:51:46,470 :INFO : test_title :Selected Email Subscription
+2024-02-10 21:53:27,016 :INFO : test_title :Going to Buzz Page...
+2024-02-10 21:56:50,536 :INFO : test_title :The title of the page is: OrangeHRM
+2024-02-10 21:57:10,742 :INFO : test_title :Entered User Name Password
+2024-02-10 21:57:10,760 :INFO : test_title :Sucesfully Logged In
+2024-02-10 21:57:10,848 :INFO : test_title :(1) Pending Self Review Is There in action item
+2024-02-10 21:57:10,848 :INFO : test_title :(1) Candidate to Interview Is There in action item
+2024-02-10 21:57:10,943 :INFO : test_title :Admin Is There in sidebar
+2024-02-10 21:57:10,944 :INFO : test_title :PIM Is There in sidebar
+2024-02-10 21:57:10,944 :INFO : test_title :Leave Is There in sidebar
+2024-02-10 21:57:10,944 :INFO : test_title :Time Is There in sidebar
+2024-02-10 21:57:10,944 :INFO : test_title :Recruitment Is There in sidebar
+2024-02-10 21:57:10,945 :INFO : test_title :My Info Is There in sidebar
+2024-02-10 21:57:10,945 :INFO : test_title :Performance Is There in sidebar
+2024-02-10 21:57:10,945 :INFO : test_title :Dashboard Is There in sidebar
+2024-02-10 21:57:10,945 :INFO : test_title :Directory Is There in sidebar
+2024-02-10 21:57:10,945 :INFO : test_title :Maintenance Is There in sidebar
+2024-02-10 21:57:10,946 :INFO : test_title :Claim Is There in sidebar
+2024-02-10 21:57:10,946 :INFO : test_title :Buzz Is There in sidebar
+2024-02-10 21:59:22,832 :INFO : test_title :Sucuesffuly verified that job titles is working
+2024-02-10 22:00:03,570 :INFO : test_title :Selected More
+2024-02-10 22:00:14,432 :INFO : test_title :Selected Email Subscription
+2024-02-10 22:01:54,991 :INFO : test_title :Going to Buzz Page...
+2024-02-10 23:01:21,757 :INFO : test_title :The title of the page is: OrangeHRM
+2024-02-10 23:01:41,985 :INFO : test_title :Entered User Name Password
+2024-02-10 23:01:42,003 :INFO : test_title :Sucesfully Logged In
+2024-02-10 23:01:42,064 :INFO : test_title :(1) Pending Self Review Is There in action item
+2024-02-10 23:01:42,064 :INFO : test_title :(1) Candidate to Interview Is There in action item
+2024-02-10 23:01:42,159 :INFO : test_title :Admin Is There in sidebar
+2024-02-10 23:01:42,159 :INFO : test_title :PIM Is There in sidebar
+2024-02-10 23:01:42,160 :INFO : test_title :Leave Is There in sidebar
+2024-02-10 23:01:42,160 :INFO : test_title :Time Is There in sidebar
+2024-02-10 23:01:42,160 :INFO : test_title :Recruitment Is There in sidebar
+2024-02-10 23:01:42,160 :INFO : test_title :My Info Is There in sidebar
+2024-02-10 23:01:42,160 :INFO : test_title :Performance Is There in sidebar
+2024-02-10 23:01:42,160 :INFO : test_title :Dashboard Is There in sidebar
+2024-02-10 23:01:42,160 :INFO : test_title :Directory Is There in sidebar
+2024-02-10 23:01:42,161 :INFO : test_title :Maintenance Is There in sidebar
+2024-02-10 23:01:42,161 :INFO : test_title :Claim Is There in sidebar
+2024-02-10 23:01:42,161 :INFO : test_title :Buzz Is There in sidebar
+2024-02-10 23:03:53,863 :INFO : test_title :Sucuesffuly verified that job titles is working
+2024-02-10 23:04:34,719 :INFO : test_title :Selected More
+2024-02-10 23:04:45,202 :INFO : test_title :Selected Email Subscription
+2024-02-10 23:06:25,786 :INFO : test_title :Going to Buzz Page...
+2024-02-10 23:10:16,247 :INFO : test_title :The title of the page is: OrangeHRM
+2024-02-10 23:10:36,458 :INFO : test_title :Entered User Name Password
+2024-02-10 23:10:36,472 :INFO : test_title :Sucesfully Logged In
+2024-02-10 23:11:29,589 :INFO : test_title :The title of the page is: OrangeHRM
+2024-02-10 23:11:49,796 :INFO : test_title :Entered User Name Password
+2024-02-10 23:11:49,816 :INFO : test_title :Sucesfully Logged In
+2024-02-10 23:12:36,301 :INFO : test_title :The title of the page is: OrangeHRM
+2024-02-10 23:12:56,522 :INFO : test_title :Entered User Name Password
+2024-02-10 23:12:56,541 :INFO : test_title :Sucesfully Logged In
+2024-02-10 23:12:56,625 :INFO : test_title :(1) Pending Self Review Is There in action item
+2024-02-10 23:12:56,626 :INFO : test_title :(1) Candidate to Interview Is There in action item
+2024-02-10 23:12:56,723 :INFO : test_title :Admin Is There in sidebar
+2024-02-10 23:12:56,724 :INFO : test_title :PIM Is There in sidebar
+2024-02-10 23:12:56,724 :INFO : test_title :Leave Is There in sidebar
+2024-02-10 23:12:56,724 :INFO : test_title :Time Is There in sidebar
+2024-02-10 23:12:56,724 :INFO : test_title :Recruitment Is There in sidebar
+2024-02-10 23:12:56,724 :INFO : test_title :My Info Is There in sidebar
+2024-02-10 23:12:56,724 :INFO : test_title :Performance Is There in sidebar
+2024-02-10 23:12:56,724 :INFO : test_title :Dashboard Is There in sidebar
+2024-02-10 23:12:56,725 :INFO : test_title :Directory Is There in sidebar
+2024-02-10 23:12:56,725 :INFO : test_title :Maintenance Is There in sidebar
+2024-02-10 23:12:56,725 :INFO : test_title :Claim Is There in sidebar
+2024-02-10 23:12:56,725 :INFO : test_title :Buzz Is There in sidebar
+2024-02-10 23:15:08,458 :INFO : test_title :Sucuesffuly verified that job titles is working
+2024-02-10 23:15:49,141 :INFO : test_title :Selected More
+2024-02-10 23:15:59,607 :INFO : test_title :Selected Email Subscription
+2024-02-10 23:17:40,452 :INFO : test_title :Going to Buzz Page...
+2024-02-10 23:25:06,723 :INFO : test_title :The title of the page is: OrangeHRM
+2024-02-10 23:25:26,958 :INFO : test_title :Entered User Name Password
+2024-02-10 23:25:26,977 :INFO : test_title :Sucesfully Logged In
+2024-02-10 23:25:27,061 :INFO : test_title :(1) Pending Self Review Is There in action item
+2024-02-10 23:25:27,061 :INFO : test_title :(1) Candidate to Interview Is There in action item
+2024-02-10 23:25:27,158 :INFO : test_title :Admin Is There in sidebar
+2024-02-10 23:25:27,158 :INFO : test_title :PIM Is There in sidebar
+2024-02-10 23:25:27,158 :INFO : test_title :Leave Is There in sidebar
+2024-02-10 23:25:27,158 :INFO : test_title :Time Is There in sidebar
+2024-02-10 23:25:27,158 :INFO : test_title :Recruitment Is There in sidebar
+2024-02-10 23:25:27,158 :INFO : test_title :My Info Is There in sidebar
+2024-02-10 23:25:27,159 :INFO : test_title :Performance Is There in sidebar
+2024-02-10 23:25:27,159 :INFO : test_title :Dashboard Is There in sidebar
+2024-02-10 23:25:27,159 :INFO : test_title :Directory Is There in sidebar
+2024-02-10 23:25:27,159 :INFO : test_title :Maintenance Is There in sidebar
+2024-02-10 23:25:27,159 :INFO : test_title :Claim Is There in sidebar
+2024-02-10 23:25:27,160 :INFO : test_title :Buzz Is There in sidebar
+2024-02-10 23:27:39,940 :INFO : test_title :Sucuesffuly verified that job titles is working
+2024-02-10 23:28:20,704 :INFO : test_title :Selected More
+2024-02-10 23:28:31,194 :INFO : test_title :Selected Email Subscription
+2024-02-10 23:30:12,319 :INFO : test_title :Going to Buzz Page...
+2024-02-10 23:32:13,447 :INFO : test_title :The title of the page is: OrangeHRM
+2024-02-10 23:32:33,708 :INFO : test_title :Entered User Name Password
+2024-02-10 23:32:33,726 :INFO : test_title :Sucesfully Logged In
+2024-02-10 23:32:33,809 :INFO : test_title :(1) Pending Self Review Is There in action item
+2024-02-10 23:32:33,809 :INFO : test_title :(1) Candidate to Interview Is There in action item
+2024-02-10 23:32:33,906 :INFO : test_title :Admin Is There in sidebar
+2024-02-10 23:32:33,906 :INFO : test_title :PIM Is There in sidebar
+2024-02-10 23:32:33,906 :INFO : test_title :Leave Is There in sidebar
+2024-02-10 23:32:33,906 :INFO : test_title :Time Is There in sidebar
+2024-02-10 23:32:33,907 :INFO : test_title :Recruitment Is There in sidebar
+2024-02-10 23:32:33,907 :INFO : test_title :My Info Is There in sidebar
+2024-02-10 23:32:33,907 :INFO : test_title :Performance Is There in sidebar
+2024-02-10 23:32:33,907 :INFO : test_title :Dashboard Is There in sidebar
+2024-02-10 23:32:33,907 :INFO : test_title :Directory Is There in sidebar
+2024-02-10 23:32:33,908 :INFO : test_title :Maintenance Is There in sidebar
+2024-02-10 23:32:33,908 :INFO : test_title :Claim Is There in sidebar
+2024-02-10 23:32:33,908 :INFO : test_title :Buzz Is There in sidebar
+2024-02-10 23:34:46,152 :INFO : test_title :Sucuesffuly verified that job titles is working
+2024-02-10 23:35:26,898 :INFO : test_title :Selected More
+2024-02-10 23:35:37,390 :INFO : test_title :Selected Email Subscription
+2024-02-10 23:37:18,098 :INFO : test_title :Going to Buzz Page...
+2024-02-11 09:40:48,161 :INFO : test_title :The title of the page is: OrangeHRM
+2024-02-11 09:41:08,598 :INFO : test_title :Entered User Name Password
+2024-02-11 09:41:08,618 :INFO : test_title :Sucesfully Logged In
+2024-02-11 09:41:08,743 :INFO : test_title :(1) Pending Self Review Is There in action item
+2024-02-11 09:41:08,744 :INFO : test_title :(1) Candidate to Interview Is There in action item
+2024-02-11 09:41:08,985 :INFO : test_title :Admin Is There in sidebar
+2024-02-11 09:41:08,985 :INFO : test_title :PIM Is There in sidebar
+2024-02-11 09:41:08,986 :INFO : test_title :Leave Is There in sidebar
+2024-02-11 09:41:08,986 :INFO : test_title :Time Is There in sidebar
+2024-02-11 09:41:08,987 :INFO : test_title :Recruitment Is There in sidebar
+2024-02-11 09:41:08,987 :INFO : test_title :My Info Is There in sidebar
+2024-02-11 09:41:08,988 :INFO : test_title :Performance Is There in sidebar
+2024-02-11 09:41:08,988 :INFO : test_title :Dashboard Is There in sidebar
+2024-02-11 09:41:08,989 :INFO : test_title :Directory Is There in sidebar
+2024-02-11 09:41:08,990 :INFO : test_title :Maintenance Is There in sidebar
+2024-02-11 09:41:08,991 :INFO : test_title :Claim Is There in sidebar
+2024-02-11 09:41:08,991 :INFO : test_title :Buzz Is There in sidebar
+2024-02-11 09:43:21,375 :INFO : test_title :Sucuesffuly verified that job titles is working
+2024-02-11 09:44:02,272 :INFO : test_title :Selected More
+2024-02-11 09:44:12,877 :INFO : test_title :Selected Email Subscription
+2024-02-11 09:45:53,691 :INFO : test_title :Going to Buzz Page...
