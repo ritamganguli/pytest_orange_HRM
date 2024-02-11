@@ -14,7 +14,7 @@ To run these tests, ensure that Python is installed on your system, along with p
 
 1. **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/ritamganguli/pytest_orange_HRM.git
     ```
     
 2. **Install the required dependencies:**
@@ -27,4 +27,11 @@ To run these tests, ensure that Python is installed on your system, along with p
 
 To execute all tests, run the following command in the root directory of the project:
 ```bash
-pytest
+py.test -v -s
+```
+
+To run the test on a specific browser lets say chrome:
+```bash
+py.test --browser Chrome -v -s
+```
+
